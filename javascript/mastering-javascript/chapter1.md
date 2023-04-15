@@ -76,13 +76,13 @@ Some of the most common uses of JavaScript include:
 
 ## Setting up a JavaScript development environment
 
-In this book, I will be using Visual Studio Code (VSCode) as the code editor and Node.js as the JavaScript development environment. VSCode is a popular and versatile code editor that offers features such as syntax highlighting, code completion, debugging, and extensions for a wide range of languages, including JavaScript. Node.js is a JavaScript runtime that allows us to run JavaScript code outside of a web browser and provides various features such as a package manager, an HTTP server, and a built-in debugger. With these tools, we can create, test, and debug JavaScript applications with ease.
+In this book, I will be using Visual Studio Code (VS Code) as the code editor and Node.js as the JavaScript development environment. VS Code is a popular and versatile code editor that offers features such as syntax highlighting, code completion, debugging, and extensions for a wide range of languages, including JavaScript. Node.js is a JavaScript runtime that allows us to run JavaScript code outside of a web browser and provides various features such as a package manager, an HTTP server, and a built-in debugger. With these tools, we can create, test, and debug JavaScript applications with ease.
 
 ### Installing VS Code on Windows
 
 To install Visual Studio Code (VS Code) in Windows, follow these steps:
 
-- Go to the official VSCode website at https://code.visualstudio.com/ and click the "Download for Windows" button.
+- Go to the official VS Code website at https://code.visualstudio.com/ and click the "Download for Windows" button.
 
 - Once the installer has downloaded, double-click on the downloaded file to run it.
 
@@ -102,7 +102,7 @@ To install Visual Studio Code (VS Code) in Windows, follow these steps:
 
 Congratulations! You have successfully installed Visual Studio Code in Windows and can now start using it as your code editor for JavaScript development.
 
-### Installing VSCode on Ubuntu
+### Installing VS Code on Ubuntu
 
 To download and install Visual Studio Code (VS Code) on Ubuntu, follow these steps:
 
@@ -126,7 +126,7 @@ Note: replace <package-name> with the actual name of the downloaded .deb package
 
 Congratulations! You have successfully installed VS Code on Ubuntu and can now start using it for your JavaScript development.
 
-### Installing VSCode on Mac
+### Installing VS Code on Mac
 
 To install VS Code on a Mac, follow these steps:
 
