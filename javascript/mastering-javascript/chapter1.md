@@ -212,8 +212,6 @@ To install Node.js on a Mac, follow these steps:
 
 - Go to the official Node.js website at https://nodejs.org/en/ and click the "Download" button for the latest version of Node.js.
 
-- Choose the appropriate macOS installer based on your system architecture (Intel or Apple Silicon).
-
 - Once the installer has downloaded, double-click on the downloaded file to run it.
 
 - Click "Continue" to begin the installation process.
