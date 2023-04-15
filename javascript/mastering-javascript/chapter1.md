@@ -76,7 +76,7 @@ Some of the most common uses of JavaScript include:
 
 ## Setting up a JavaScript development environment
 
-In this book, I will be using Visual Studio Code (VS Code) as the code editor and Node.js as the JavaScript development environment. VS Code is a popular and versatile code editor that offers features such as syntax highlighting, code completion, debugging, and extensions for a wide range of languages, including JavaScript. Node.js is a JavaScript runtime that allows us to run JavaScript code outside of a web browser and provides various features such as a package manager, an HTTP server, and a built-in debugger. With these tools, we can create, test, and debug JavaScript applications with ease.
+In this book, I will be using Visual Studio Code (VS Code) as the code editor and both Node.js and JavaScript in the browser as the development environments. VS Code is a popular and versatile code editor that offers features such as syntax highlighting, code completion, debugging, and extensions for a wide range of languages, including JavaScript. Node.js is a JavaScript runtime that allows us to run JavaScript code outside of a web browser and provides various features such as a package manager, an HTTP server, and a built-in debugger. Additionally, we will also utilize JavaScript in the browser environment to create, test, and debug applications directly in the browser. With these powerful tools, we can efficiently develop JavaScript applications both inside and outside the browser.
 
 ### Installing VS Code on Windows
 
@@ -245,3 +245,35 @@ node index
 ```
 
 This command will run the "index.js" file with Node.js, and you should see the text "Hello, World!" printed to your console. Congratulations! You have successfully created and run your first Node.js program.
+
+In addition to showing you how to write a basic 'Hello World' program with Node.js, I'll also guide you through running the code in a web browser. Create another file called "index.html" in VS Code. Add the following code to the file:
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello World</title>
+  </head>
+  <body>
+    <script>
+      alert("Hello, World!");
+    </script>
+  </body>
+</html>
+```
+
+Save the file with a .html extension. Open the file in a web browser like Chrome, Firefox, or Safari. The alert message "Hello, World!" should pop up in the browser window. The `alert()` function in the code above is a built-in JavaScript function that displays a message in a popup dialog box. It's a simple way to display output in a browser without having to manipulate the HTML document directly.
+
+## Summing up
+
+JavaScript is a high-level programming language used for developing web applications and adding interactive features to websites. JavaScript is versatile and can be used on both the front-end and back-end of web development, and can be used in conjunction with HTML and CSS to create dynamic web content. The chapter provides a brief history of JavaScript, highlighting its evolution over the years and its current status as one of the most widely used programming languages. The features of JavaScript, its advantages, and common uses are also discussed.
+
+## Knowledge Test
+
+- Write a brief history of JavaScript, including its initial name and creator.
+
+- Name at least three features of JavaScript.
+
+- Explain the advantages of using JavaScript for web development.
+
+- What are some common uses of JavaScript?
