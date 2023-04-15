@@ -130,7 +130,7 @@ Congratulations! You have successfully installed VS Code on Ubuntu and can now s
 
 To install VS Code on a Mac, follow these steps:
 
-- Go to the Visual Studio Code website at https://code.visualstudio.com/ and click on the "Download for Mac" button.
+- Go to the Visual Studio Code website at https://code.visualstudio.com/ and click on the "Download Mac Universal" button.
 
 - Once the download is complete, double-click on the downloaded .dmg file to open it.
 
