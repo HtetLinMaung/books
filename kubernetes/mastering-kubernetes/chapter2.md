@@ -51,10 +51,10 @@ curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stabl
 - Download and Install kind: You can download the latest version of kind from the official GitHub repository. You can use the following command to download kind:
 
 ```bash
-curl -Lo ./kind https://github.com/kubernetes-sigs/kind/releases/download/v0.11.1/kind-linux-amd64
+curl -Lo ./kind https://kind.sigs.k8s.io/dl/v0.18.0/kind-linux-amd64
 ```
 
-Note: Replace v0.11.1 with the latest version available on the GitHub releases page.
+Note: Replace v0.18.0 with the latest version available on the kind releases page.
 
 - Make the kind binary executable: Once the kind binary is downloaded, make it executable by running the following command:
 
