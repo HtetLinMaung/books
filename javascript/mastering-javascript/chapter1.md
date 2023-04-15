@@ -231,3 +231,19 @@ To install Node.js on a Mac, follow these steps:
 - To verify that Node.js has been installed correctly, open a terminal window and type "node -v". This should display the version of Node.js that you have installed.
 
 Congratulations! You have successfully installed Node.js on a Mac and can now start using it for JavaScript development.
+
+## Writing and Running Your First Hello World Program
+
+Create a new file called "index.js" in VS Code. Inside the "index.js" file, type the following code:
+
+```javascript
+console.log("Hello, World!");
+```
+
+This code simply prints the text "Hello, World!" to the console. Save the "index.js" file. Open your terminal or command prompt and navigate to the directory where you saved the "index.js" file. Type the following command in your terminal or command prompt:
+
+```bash
+node index.js
+```
+
+This command will run the "index.js" file with Node.js, and you should see the text "Hello, World!" printed to your console. Congratulations! You have successfully created and run your first Node.js program.
