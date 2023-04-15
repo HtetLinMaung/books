@@ -131,11 +131,3 @@ Limitations of Minikube:
 - Security Concerns: Running a Kubernetes cluster on a local machine can introduce security risks, particularly if the machine is not properly secured. Developers must be aware of these risks and take appropriate precautions to minimize them.
 
 Despite these limitations, Minikube is a valuable tool for developers looking to learn and experiment with Kubernetes in a local development environment. It is a lightweight and easy-to-use solution that can help developers become familiar with the Kubernetes ecosystem and develop applications faster and more efficiently.
-
-```
-
-```
-
-```
-
-```
