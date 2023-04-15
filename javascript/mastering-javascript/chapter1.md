@@ -108,9 +108,7 @@ To download and install Visual Studio Code (VS Code) on Ubuntu, follow these ste
 
 - Go to the official VS Code website at https://code.visualstudio.com/.
 
-- Click the "Download for Linux" button, which will take you to the download page.
-
-- Select the .deb option for your system architecture (32-bit or 64-bit).
+- Click the ".deb" button.
 
 - Once the download is complete, open the terminal and navigate to the directory where the .deb package was saved.
 
