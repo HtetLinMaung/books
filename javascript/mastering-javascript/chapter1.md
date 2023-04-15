@@ -243,7 +243,7 @@ console.log("Hello, World!");
 This code simply prints the text "Hello, World!" to the console. Save the "index.js" file. Open your terminal or command prompt and navigate to the directory where you saved the "index.js" file. Type the following command in your terminal or command prompt:
 
 ```bash
-node index.js
+node index
 ```
 
 This command will run the "index.js" file with Node.js, and you should see the text "Hello, World!" printed to your console. Congratulations! You have successfully created and run your first Node.js program.
