@@ -277,3 +277,5 @@ JavaScript is a high-level programming language used for developing web applicat
 - Explain the advantages of using JavaScript for web development.
 
 - What are some common uses of JavaScript?
+
+- Write a JavaScript program to display "Hello, World!" on the console.
