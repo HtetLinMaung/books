@@ -36,24 +36,16 @@ Overall, KinD is a great option for developers who want to quickly spin up a lig
 
 To install Kubernetes kind on Linux, you can follow these steps:
 
-Update the package list: Before installing any new packages, it is recommended to update the package list on your system. You can do this by running the following command:
-
-```bash
-sudo apt update
-```
-
 - Install Docker: Kubernetes kind requires Docker to be installed on your machine. You can install Docker by following the instructions for your specific Linux distribution. For example, on Ubuntu, you can run the following command:
 
 ```bash
-sudo apt install docker.io
+sudo apt update && sudo apt install ca-certificates curl gnupg && sudo install -m 0755 -d /etc/apt/keyrings && curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg && sudo chmod a+r /etc/apt/keyrings/docker.gpg && echo "deb [arch="$(dpkg --print-architecture)" signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu "$(. /etc/os-release && echo "$VERSION_CODENAME")" stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null && sudo apt update && sudo apt install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 ```
 
-- Install kubectl: kubectl is a command-line tool used to interact with Kubernetes clusters. You can install it by running the following commands:
+- Install kubectl: kubectl is a command-line tool used to interact with Kubernetes clusters. You can install it by running the following command:
 
 ```bash
-curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
-
-sudo install -o root -g root -m 0755 kubectl /usr/local/bin/kubectl
+curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl" && sudo install -o root -g root -m 0755 kubectl /usr/local/bin/kubectl
 ```
 
 - Download and Install kind: You can download the latest version of kind from the official GitHub repository. You can use the following command to download kind:
