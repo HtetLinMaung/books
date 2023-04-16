@@ -198,7 +198,7 @@ This should display the version of Node.js that you have installed.
 sudo apt install npm
 ```
 
-Verify that npm is installed correctly by checking its version with the following command:
+- Verify that npm is installed correctly by checking its version with the following command:
 
 ```bash
 npm -v
@@ -270,12 +270,12 @@ JavaScript is a high-level programming language used for developing web applicat
 
 ## Knowledge Test
 
-- Write a brief history of JavaScript, including its initial name and creator.
+- Write a brief history of JavaScript, including its initial name and creator?
 
-- Name at least three features of JavaScript.
+- Name at least three features of JavaScript?
 
-- Explain the advantages of using JavaScript for web development.
+- Explain the advantages of using JavaScript for web development?
 
 - What are some common uses of JavaScript?
 
-- Write a JavaScript program to display "Hello, World!" on the console.
+- Write a JavaScript program to display "Hello, World!" on the console?
