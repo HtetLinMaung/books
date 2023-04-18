@@ -168,11 +168,11 @@ In Chapter 4, we explored control structures in JavaScript, which are essential 
 
 ## Knowledge Test
 
-- Write a JavaScript program that takes a user's age as input and prints whether the user can legally vote or not. If the user is 18 years or older, print "You can vote!", otherwise print "You cannot vote yet."?
+1. Write a JavaScript program that takes a user's age as input and prints whether the user can legally vote or not. If the user is 18 years or older, print "You can vote!", otherwise print "You cannot vote yet."?
 
-- Write a JavaScript program that takes a number between 1 and 7 as input, representing the day of the week, and prints the corresponding day name. If the input is invalid, print "Invalid input."?
+2. Write a JavaScript program that takes a number between 1 and 7 as input, representing the day of the week, and prints the corresponding day name. If the input is invalid, print "Invalid input."?
 
-- Write a JavaScript program that prints the multiplication table of a given number up to 10 using a `for` loop. For example, if the input is 5, the program should print the following:
+3. Write a JavaScript program that prints the multiplication table of a given number up to 10 using a `for` loop. For example, if the input is 5, the program should print the following:
 
 ```bash
 5 x 1 = 5
@@ -182,10 +182,10 @@ In Chapter 4, we explored control structures in JavaScript, which are essential 
 5 x 10 = 50
 ```
 
-- Write a JavaScript program that prints all the prime numbers between 2 and a given number using a `while` loop?
+4. Write a JavaScript program that prints all the prime numbers between 2 and a given number using a `while` loop?
 
-- Write a JavaScript program that prompts the user for a secret password. The program should keep asking the user for the password until the correct password is entered, using a `do-while` loop. When the correct password is entered, print "Access granted."?
+5. Write a JavaScript program that prompts the user for a secret password. The program should keep asking the user for the password until the correct password is entered, using a `do-while` loop. When the correct password is entered, print "Access granted."?
 
-- Write a JavaScript program that uses a `for` loop to iterate over the numbers from 1 to 100. The program should print the square of each number, but if the square is divisible by 10, it should skip that iteration using the `continue` statement. If the square is greater than 2000, the program should exit the loop using the `break` statement.
+6. Write a JavaScript program that uses a `for` loop to iterate over the numbers from 1 to 100. The program should print the square of each number, but if the square is divisible by 10, it should skip that iteration using the `continue` statement. If the square is greater than 2000, the program should exit the loop using the `break` statement.
 
-- Given an array of numbers, write a JavaScript program that calculates the sum of all the elements in the array using a `for` loop. Optimize the loop performance by caching the length of the array.
+7. Given an array of numbers, write a JavaScript program that calculates the sum of all the elements in the array using a `for` loop. Optimize the loop performance by caching the length of the array.
