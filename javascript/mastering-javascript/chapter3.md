@@ -103,7 +103,7 @@ In Chapter 3, we delved into the essential components of JavaScript programming:
 
 ## Knowledge Test
 
-- Create two variables `num1` and `num2`, and assign them values of 25 and 12, respectively. Perform the following operations and log the results to the console:
+1. Create two variables `num1` and `num2`, and assign them values of 25 and 12, respectively. Perform the following operations and log the results to the console:
 
 a. Add `num1` and `num2`
 b. Subtract `num2` from `num1`
@@ -111,7 +111,7 @@ c. Multiply `num1` and `num2`
 d. Divide `num1` by `num2`
 e. Find the remainder when `num1` is divided by `num2`
 
-- Compare the values of num1 and num2 using comparison operators, and log the results to the console:
+2. Compare the values of num1 and num2 using comparison operators, and log the results to the console:
 
 a. Check if `num1` is equal to `num2`
 b. Check if `num1` is not equal to `num2`
@@ -120,15 +120,15 @@ d. Check if `num1` is less than `num2`
 e. Check if `num1` is greater than or equal to `num2`
 f. Check if `num1` is less than or equal to `num2`
 
-- Use logical operators to evaluate and log the following expressions:
+3. Use logical operators to evaluate and log the following expressions:
 
 a. `num1` is greater than 20 AND `num2` is less than 15
 b. `num1` is less than 30 OR `num2` is greater than 10
 c. NOT (`num1` is equal to 25)
 
-- Use the conditional (ternary) operator to assign the minimum value of `num1` and `num2` to a variable called `minValue`, and log the result to the console.
+4. Use the conditional (ternary) operator to assign the minimum value of `num1` and `num2` to a variable called `minValue`, and log the result to the console.
 
-- Update the value of `num1` using compound assignment operators:
+5. Update the value of `num1` using compound assignment operators:
 
 a. Increment `num1` by 5
 b. Decrement `num1` by 3
@@ -136,6 +136,6 @@ c. Multiply `num1` by 4
 d. Divide `num1` by 2
 e. Get the remainder when `num1` is divided by 7
 
-- Calculate and log the result of the following expression, taking operator precedence into account: (`num1` + `num2`) \* (`num1` - `num2`) / `num2` + 5.
+6. Calculate and log the result of the following expression, taking operator precedence into account: (`num1` + `num2`) \* (`num1` - `num2`) / `num2` + 5.
 
-- Write an expression that calculates the square of `num1`, and log the result to the console.
+7. Write an expression that calculates the square of `num1`, and log the result to the console.

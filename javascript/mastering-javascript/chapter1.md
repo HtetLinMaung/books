@@ -270,12 +270,12 @@ JavaScript is a high-level programming language used for developing web applicat
 
 ## Knowledge Test
 
-- Write a brief history of JavaScript, including its initial name and creator?
+1. Write a brief history of JavaScript, including its initial name and creator?
 
-- Name at least three features of JavaScript?
+2. Name at least three features of JavaScript?
 
-- Explain the advantages of using JavaScript for web development?
+3. Explain the advantages of using JavaScript for web development?
 
-- What are some common uses of JavaScript?
+4. What are some common uses of JavaScript?
 
-- Write a JavaScript program to display "Hello, World!" on the console?
+5. Write a JavaScript program to display "Hello, World!" on the console?

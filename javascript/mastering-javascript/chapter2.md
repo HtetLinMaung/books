@@ -103,22 +103,22 @@ Chapter 2 delves into the essential aspects of JavaScript programming, focusing 
 
 ## Knowledge Test
 
-- Declare a variable named myName using the let keyword, and assign your name to it as a string?
+1. Declare a variable named myName using the let keyword, and assign your name to it as a string.
 
-- Create a const variable called myAge and assign your age to it as a number?
+2. Create a const variable called myAge and assign your age to it as a number.
 
-- Declare a variable named isStudent using the let keyword, and assign a boolean value (true or false) depending on whether you are a student or not?
+3. Declare a variable named isStudent using the let keyword, and assign a boolean value (true or false) depending on whether you are a student or not.
 
-- Create an array called favoriteColors that contains your three favorite colors as strings?
+4. Create an array called favoriteColors that contains your three favorite colors as strings.
 
-- Create an object called personalDetails with the following properties: name, age, and city. Assign appropriate values to each property?
+5. Create an object called personalDetails with the following properties: name, age, and city. Assign appropriate values to each property.
 
-- Write a function called displayName that takes a name as an argument and logs the name in the console?
+6. Write a function called displayName that takes a name as an argument and logs the name in the console.
 
-- Update the displayName function to be a block-scoped function using the let keyword, and test the function with a new name?
+7. Update the displayName function to be a block-scoped function using the let keyword, and test the function with a new name.
 
-- Create a function called sum that takes two numbers as arguments, converts the numbers to strings, and returns the concatenated string (e.g., sum(2, 3) should return "23")?
+8. Create a function called sum that takes two numbers as arguments, converts the numbers to strings, and returns the concatenated string (e.g., sum(2, 3) should return "23").
 
-- Write a function called multiply that takes two numbers as arguments, multiplies them, and logs the result in the console?
+9. Write a function called multiply that takes two numbers as arguments, multiplies them, and logs the result in the console.
 
-- Write a function called showScope that declares a global variable named globalVar and a local variable named localVar within the function. Log the value of both variables inside and outside the function to demonstrate scoping rules?
+10. Write a function called showScope that declares a global variable named globalVar and a local variable named localVar within the function. Log the value of both variables inside and outside the function to demonstrate scoping rules.
