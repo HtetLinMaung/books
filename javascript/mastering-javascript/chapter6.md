@@ -177,13 +177,13 @@ In Chapter 6, we explored arrays and objects, two essential data structures in J
 
 ## Knowledge Test
 
-- Create an array `colors` with five color names as strings.
-- Add a color to the beginning and end of the `colors` array using appropriate array methods.
-- Remove the second color from the `colors` array.
-- Create a new array `reversedColors` that contains the elements of the `colors` array in reverse order.
-- Create an object `vehicle` with properties `make`, `model`, and `year`.
-- Add a new property `color` to the `vehicle` object with a value of your choice.
-- Create a method `getInfo` for the `vehicle` object that returns a string containing the make, model, year, and color.
-- Create a constructor function `Book` with properties `title`, `author`, and `pages`. Add a method `read` to the prototype that returns a string indicating the book has been read.
-- Create two instances of the `Book` constructor function and call the `read` method on both instances.
-- Create a function `getBookWithMostPages` that takes an array of `Book` instances and returns the instance with the most pages.
+1. Create an array `colors` with five color names as strings.
+2. Add a color to the beginning and end of the `colors` array using appropriate array methods.
+3. Remove the second color from the `colors` array.
+4. Create a new array `reversedColors` that contains the elements of the `colors` array in reverse order.
+5. Create an object `vehicle` with properties `make`, `model`, and `year`.
+6. Add a new property `color` to the `vehicle` object with a value of your choice.
+7. Create a method `getInfo` for the `vehicle` object that returns a string containing the make, model, year, and color.
+8. Create a constructor function `Book` with properties `title`, `author`, and `pages`. Add a method `read` to the prototype that returns a string indicating the book has been read.
+9. Create two instances of the `Book` constructor function and call the `read` method on both instances.
+10. Create a function `getBookWithMostPages` that takes an array of `Book` instances and returns the instance with the most pages.

@@ -163,18 +163,18 @@ In Chapter 5, we explored functions, an essential aspect of JavaScript programmi
 
 ## Knowledge Test
 
-- Write a function named `factorial` that takes a number as an argument and returns the factorial of the number?
+1. Write a function named `factorial` that takes a number as an argument and returns the factorial of the number.
 
-- Write a function named `sum` that takes an array of numbers and returns the sum of all the numbers in the array?
+2. Write a function named `sum` that takes an array of numbers and returns the sum of all the numbers in the array.
 
-- Write a function named `max` that takes two numbers and returns the greater of the two?
+3. Write a function named `max` that takes two numbers and returns the greater of the two.
 
-- Convert the `max` function from exercise 3 to an arrow function?
+4. Convert the `max` function from exercise 3 to an arrow function.
 
-- Write a function named `filterEvens` that takes an array of numbers and returns a new array containing only the even numbers?
+5. Write a function named `filterEvens` that takes an array of numbers and returns a new array containing only the even numbers.
 
-- Write a function named `makeGreeting` that takes two arguments, a greeting and a name, and returns a string with the greeting and the name. If the greeting is not provided, use a default greeting of "Hello"?
+6. Write a function named `makeGreeting` that takes two arguments, a greeting and a name, and returns a string with the greeting and the name. If the greeting is not provided, use a default greeting of "Hello".
 
-- Create a function named `lengths` that takes an array of strings and returns a new array containing the length of each string?
+7. Create a function named `lengths` that takes an array of strings and returns a new array containing the length of each string.
 
-- Write a function named `findMax` that takes an array of numbers and returns the maximum value in the array using a higher-order function?
+8. Write a function named `findMax` that takes an array of numbers and returns the maximum value in the array using a higher-order function.
