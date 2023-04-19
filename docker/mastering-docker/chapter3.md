@@ -102,4 +102,23 @@ In this example, the `-d` flag runs the container in the background, and the `-p
 
 ## Summing up
 
+In this chapter, we explored Docker images, the foundation for creating Docker containers. We discussed what Docker images are, the process of creating them through committing changes or using a Dockerfile, the syntax and common instructions used in Dockerfiles, and how to build Docker images. Furthermore, we looked into Docker image repositories, where images can be stored and shared, enabling easy distribution across different environments. By understanding how to create, build, and manage Docker images, you can efficiently develop, test, and deploy your applications using containers.
+
 ## Knowledge Test
+
+1. Create a simple Dockerfile for a Python web application:
+
+a. Use the official Python 3.9 image as the base.
+b. Set the working directory to `/app`.
+c. Copy the `requirements.txt` file and install the dependencies using `pip`.
+d. Copy the application source code.
+e. Expose port 5000.
+f. Set the default command to run the application using `python app.py`.
+
+2. Build a Docker image using the Dockerfile created in exercise 1. Name the image `my-python-webapp` and tag it with `v1`.
+
+3. Run a container using the image created in exercise 2. Map the container's port 5000 to the host's port 5000, and run the container in the background.
+
+4. Push the `my-python-webapp:v1` image to a Docker registry of your choice (e.g., Docker Hub, Google Container Registry, Amazon Elastic Container Registry). If you don't have an account, create one and follow the necessary steps to push the image.
+
+5. Pull the `my-python-webapp:v1` image from the registry to another machine or a colleague's machine and run a container using the pulled image. Verify that the application is running and accessible on port 5000.
