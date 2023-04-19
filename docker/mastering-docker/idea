@@ -1,0 +1,84 @@
+Mastering Docker: From Fundamentals to Real-World Applications
+
+Chapter 1: Introduction to Docker
+
+What is Docker?
+The history of Docker
+The advantages of using Docker
+Docker architecture
+Docker components
+
+Chapter 2: Installing Docker
+
+System requirements
+Docker installation on Windows, Mac, and Linux
+Verification of Docker installation
+
+Chapter 3: Docker Images
+
+What is a Docker image?
+Creating Docker images
+Dockerfile syntax
+Building Docker images
+Docker image repositories
+
+Chapter 4: Running Docker Containers
+
+What is a Docker container?
+Running Docker containers
+Container management commands
+Container networking
+Docker data volumes
+
+Chapter 5: Docker Compose
+
+What is Docker Compose?
+Installing Docker Compose
+Writing a Docker Compose file
+Starting and stopping Docker Compose services
+Scaling services with Docker Compose
+
+Chapter 6: Docker Swarm
+
+What is Docker Swarm?
+Setting up a Docker Swarm cluster
+Swarm management commands
+Service creation and scaling in Docker Swarm
+Load balancing in Docker Swarm
+
+Chapter 7: Docker Security
+
+Docker security best practices
+Docker security features
+Securing Docker containers
+Docker container vulnerabilities
+Docker security tools
+
+Chapter 8: Docker Orchestration
+
+What is Docker orchestration?
+Container orchestration tools
+Kubernetes
+Mesos
+Swarm mode
+
+Chapter 9: Docker for Continuous Integration and Delivery
+
+Docker and CI/CD
+Docker and Jenkins
+Docker and Travis CI
+Docker and CircleCI
+
+Chapter 10: Docker Use Cases
+
+Docker in development
+Docker in testing
+Docker in production
+Microservices with Docker
+DevOps with Docker
+
+Chapter 11: Conclusion
+
+The future of Docker
+Docker alternatives
+Final thoughts on Docker.
