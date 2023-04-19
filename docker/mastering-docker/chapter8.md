@@ -110,3 +110,19 @@ docker service ls
 ```
 
 In conclusion, container orchestration is a critical aspect of managing large-scale containerized applications. There are various orchestration tools available, each with its own set of features and benefits. Kubernetes, Mesos, and Docker Swarm mode are three popular container orchestration platforms that offer various degrees of complexity, scalability, and compatibility with Docker. Depending on your specific requirements, you can choose the most suitable orchestration tool to effectively manage and scale your containerized applications.
+
+## Summing up
+
+In this chapter, we explored Docker orchestration and the role of container orchestration tools in managing large-scale, complex containerized applications. We discussed three popular orchestration platforms: Kubernetes, Mesos, and Docker Swarm mode. Each tool has its own unique features and benefits, catering to different requirements and complexities. Kubernetes is known for its extensive feature set and robustness, while Mesos excels in managing resources for large-scale applications. Docker Swarm mode offers a native solution with simplicity and ease of use. Ultimately, the choice of orchestration tool depends on the specific needs of your containerized applications, and by selecting the appropriate tool, you can effectively manage, scale, and maintain your applications.
+
+## Knowledge Test
+
+1. Set up a single-node Kubernetes cluster on your local machine using a tool like Minikube or Kind. Deploy a simple containerized application, such as Nginx, and expose it as a service. Test that you can access the application through the service.
+
+2. Install and configure Apache Mesos and Marathon on your local machine or a cloud-based virtual machine. Deploy a containerized application, like Nginx, using Marathon. Verify that the application is running and can be accessed.
+
+3. Create a single-node Docker Swarm cluster on your local machine. Deploy a service with multiple replicas, such as Nginx, and expose it using a published port. Check that the service is running and can be accessed.
+
+4. Experiment with scaling services in each orchestration platform. For Kubernetes, try using `kubectl scale` to change the number of replicas. For Marathon, update the `instances` value in the application definition and redeploy the application. For Docker Swarm, use `docker service update` to modify the replica count.
+
+5. Investigate rolling updates in each orchestration tool. Update the container image for your deployed applications and observe how the orchestration platform handles the update. Note any differences in how Kubernetes, Mesos/Marathon, and Docker Swarm perform rolling updates.
