@@ -63,9 +63,9 @@ This command should display the version of the Rust compiler you've installed.
 
 3. `Understanding the Toolchain`:
 
-`rustc`: The Rust compiler. It compiles Rust source files (`.rs`) into executable binaries.
-`cargo`: Rust's package manager and build tool. It handles project creation, building, testing, and dependency management.
-`rustup`: The Rust toolchain installer. It manages multiple versions of Rust and associated tools.
+- `rustc`: The Rust compiler. It compiles Rust source files (`.rs`) into executable binaries.
+- `cargo`: Rust's package manager and build tool. It handles project creation, building, testing, and dependency management.
+- `rustup`: The Rust toolchain installer. It manages multiple versions of Rust and associated tools.
 
 4. `Creating a New Rust Project`:
 
