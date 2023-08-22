@@ -46,7 +46,7 @@ Setting up a development environment for Rust is straightforward, thanks to its 
 - `macOS and Linux`: Open a terminal and enter the following command:
 
 ```bash
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs/ | sh
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 
 Follow the on-screen instructions to complete the installation.
